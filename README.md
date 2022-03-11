@@ -1,9 +1,18 @@
 
-### Olá! eu sou o Igor Bonfim
+### Olá! Seja muito bem vindo
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igormbonfim/)
 
 ![IgormBonfim's GitHub stats](https://github-readme-stats.vercel.app/api?username=igormbonfim&show_icons=true&theme=dark)
+
+## Stack principal
+
+<div style="display: inline_block">
+    <img aling="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+    <img aling="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+    <img aling="center" alt="Spring" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+
+</div><br>
 
 ## Tecnologias que conheço
 
@@ -13,13 +22,6 @@
     <img aling="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img aling="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <img aling="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-</div>
+</div><br>
 
-## Stack principal
-
-<div style="display: inline_block">
-    <img aling="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-    <img aling="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-    <img aling="center" alt="Spring" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igormbonfim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
