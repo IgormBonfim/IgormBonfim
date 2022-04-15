@@ -1,5 +1,5 @@
  
- <p align="center"><a href="https://github.com/IgormBonfim"> <img width="25%" src="https://user-images.githubusercontent.com/83429569/163526191-90896faf-7157-436d-bc5c-35adb9972b0e.png"/></a></p>
+ <p align="center"><a href="https://github.com/IgormBonfim"> <img width="50%" src="https://user-images.githubusercontent.com/83429569/163526191-90896faf-7157-436d-bc5c-35adb9972b0e.png"/></a></p>
  
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igormbonfim/)
