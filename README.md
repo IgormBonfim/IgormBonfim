@@ -27,5 +27,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igormbonfim&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/IgormBonfim/IgormBonfim/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/IgormBonfim/IgormBonfim/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/IgormBonfim/IgormBonfim/output/github-contribution-grid-snake-white.svg#gh-light-mode-only)
  
