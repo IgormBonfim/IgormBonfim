@@ -26,6 +26,3 @@
 </div><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igormbonfim&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
-![snake gif](https://github.com/IgormBonfim/IgormBonfim/blob/output/github-contribution-grid-snake.svg)
-
